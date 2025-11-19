@@ -1,1 +1,13 @@
-
+OrderID,Date,Region,ProductID,Brand,Model,Size,Color,UnitsSold,UnitPrice,Discount,Channel,TotalRevenue,ReturnFlag
+Order001,2025-11-01,Guayaquil,P001,MarcaX,RunnerPro,42,Negro,2,79.99,0.00,Online,159.98,No
+Order002,2025-11-02,Quito,P002,MarcaY,UrbanFlex,40,Blanco,1,89.50,0.10,Tienda,80.55,No
+Order003,2025-11-03,Cuenca,P003,MarcaX,TrailMax,43,Marrón,3,120.00,0.00,Online,360.00,No
+Order004,2025-11-04,Guayaquil,P004,MarcaZ,SportLite,41,Azul,4,45.00,0.05,Tienda,171.00,No
+Order005,2025-11-05,Quito,P005,MarcaY,Classic,39,Beige,2,65.00,0.15,Online,110.50,No
+Order006,2025-11-06,Loja,P006,MarcaX,RunnerPro,43,Negro,1,79.99,0.00,Tienda,79.99,No
+Order007,2025-11-07,Ambato,P007,MarcaZ,Comfort,42,Gris,5,49.99,0.20,Online,199.96,No
+Order008,2025-11-08,Manta,P008,MarcaY,SlipOn,38,Rojo,2,55.00,0.00,Tienda,110.00,No
+Order009,2025-11-09,Guayaquil,P009,MarcaZ,SportLite,44,Verde,1,45.00,0.10,Online,40.50,No
+Order010,2025-11-10,Quito,P010,MarcaX,TrailMax,42,Marrón,2,120.00,0.05,Tienda,228.00,No
+Order011,2025-11-11,Cuenca,P011,MarcaY,Classic,41,Negro,3,65.00,0.00,Online,195.00,No
+Order012,2025-11-12,Guayaquil,P012,MarcaX,Limited,44,Blanco,1,199.99,0.10,Tienda,179.99,No
