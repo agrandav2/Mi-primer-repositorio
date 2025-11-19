@@ -1,13 +1,13 @@
-ID_Pedido,Fecha,Región,ID_Producto,Marca,Modelo,Talla,Color,Unidades_Vendidas,Precio_Unitario,Ingreso_Total
-Pedido001,2025-11-01,Guayaquil,P001,MarcaX,RunnerPro,42,Negro,2,79.99,159.98
-Pedido002,2025-11-02,Quito,P002,MarcaY,UrbanFlex,40,Blanco,1,89.50,89.50
-Pedido003,2025-11-03,Cuenca,P003,MarcaX,TrailMax,43,Marrón,3,120.00,360.00
-Pedido004,2025-11-04,Guayaquil,P004,MarcaZ,SportLite,41,Azul,4,45.00,180.00
-Pedido005,2025-11-05,Quito,P005,MarcaY,Classic,39,Beige,2,65.00,130.00
-Pedido006,2025-11-06,Loja,P006,MarcaX,RunnerPro,43,Negro,1,79.99,79.99
-Pedido007,2025-11-07,Ambato,P007,MarcaZ,Comfort,42,Gris,5,49.99,249.95
-Pedido008,2025-11-08,Manta,P008,MarcaY,SlipOn,38,Rojo,2,55.00,110.00
-Pedido009,2025-11-09,Guayaquil,P009,MarcaZ,SportLite,44,Verde,1,45.00,45.00
-Pedido010,2025-11-10,Quito,P010,MarcaX,TrailMax,42,Marrón,2,120.00,240.00
-Pedido011,2025-11-11,Cuenca,P011,MarcaY,Classic,41,Negro,3,65.00,195.00
-Pedido012,2025-11-12,Guayaquil,P012,MarcaX,Limited,44,Blanco,1,199.99,199.99
+ID_Pedido,Fecha,ID_Producto,Marca,Modelo,Talla,Color,Unidades_Vendidas,Precio_Unitario,Ingreso_Total
+Pedido001,2025-11-01,P001,Nike,Air Max 90,42,Negro,2,129.99,259.98
+Pedido002,2025-11-02,P002,Adidas,Ultraboost 22,40,Blanco,1,180.00,180.00
+Pedido003,2025-11-03,P003,Puma,RS-X,43,Azul,3,110.00,330.00
+Pedido004,2025-11-04,P004,Vans,Old Skool,41,Negro,4,65.00,260.00
+Pedido005,2025-11-05,P005,Converse,Chuck Taylor All Star,39,Rojo,2,55.00,110.00
+Pedido006,2025-11-06,P006,Nike,Air Force 1,43,Blanco,1,100.00,100.00
+Pedido007,2025-11-07,P007,New Balance,574 Classic,42,Gris,5,90.00,450.00
+Pedido008,2025-11-08,P008,Adidas,Stan Smith,38,Verde,2,85.00,170.00
+Pedido009,2025-11-09,P009,Vans,Sk8-Hi,44,Negro,1,75.00,75.00
+Pedido010,2025-11-10,P010,Nike,React Infinity Run,42,Azul,2,160.00,320.00
+Pedido011,2025-11-11,P011,Puma,Cali Star,41,Blanco,3,70.00,210.00
+Pedido012,2025-11-12,P012,New Balance,990v5,44,Gris,1,185.00,185.00
