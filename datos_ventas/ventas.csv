@@ -1,13 +1,13 @@
 Fecha,ID,Marca,Modelo,Talla,Color,Unidades,P.U,Val
 01/11/2025,P001,Nike,Air Max 90,42,Negro,2,$129.99,$259.98
-02/11/2025,P002,Adidas,Ultraboost 22,40,Blanco,1,$180.00,$180.00
-03/11/2025,P003,Puma,RS-X,43,Azul,3,$110.00,$330.00
-04/11/2025,P004,Vans,Old Skool,41,Negro,4,$65.00,$260.00
-05/11/2025,P005,Converse,Chuck Taylor All Star,39,Rojo,2,$55.00,$110.00
-06/11/2025,P006,Nike,Air Force 1,43,Blanco,1,$100.00,$100.00
-07/11/2025,P007,New Balance,574 Classic,42,Gris,5,$90.00,$450.00
-08/11/2025,P008,Adidas,Stan Smith,38,Verde,2,$85.00,$170.00
-09/11/2025,P009,Vans,Sk8-Hi,44,Negro,1,$75.00,$75.00
-10/11/2025,P010,Nike,React Infinity Run,42,Azul,2,$160.00,$320.00
-11/11/2025,P011,Puma,Cali Star,41,Blanco,3,$70.00,$210.00
-12/11/2025,P012,New Balance,990v5,44,Gris,1,$185.00,$185.00
+01/11/2025,P002,Adidas,Ultraboost 22,40,Blanco,1,$180.00,$180.00
+01/11/2025,P003,Puma,RS-X,43,Azul,3,$110.00,$330.00
+01/11/2025,P004,Vans,Old Skool,41,Negro,4,$65.00,$260.00
+02/11/2025,P005,Converse,Chuck Taylor All Star,39,Rojo,2,$55.00,$110.00
+02/11/2025,P006,Nike,Air Force 1,43,Blanco,1,$100.00,$100.00
+03/11/2025,P007,New Balance,574 Classic,42,Gris,5,$90.00,$450.00
+03/11/2025,P008,Adidas,Stan Smith,38,Verde,2,$85.00,$170.00
+03/11/2025,P009,Vans,Sk8-Hi,44,Negro,1,$75.00,$75.00
+03/11/2025,P010,Nike,React Infinity Run,42,Azul,2,$160.00,$320.00
+05/11/2025,P011,Puma,Cali Star,41,Blanco,3,$70.00,$210.00
+06/11/2025,P012,New Balance,990v5,44,Gris,1,$185.00,$185.00
