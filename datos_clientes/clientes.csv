@@ -1,1 +1,11 @@
-
+Fecha_Registro,ID_Cliente,Nombre,Correo,Teléfono,Ciudad,País,Total_Gastado
+03/10/2025,C001,Carlos Mendoza,carlos.mendoza@example.com,0991234567,Quito,Ecuador,$320.00
+05/10/2025,C002,Ana Torres,ana.torres@example.com,0987654321,Guayaquil,Ecuador,$150.00
+08/10/2025,C003,José Ramírez,jose.ramirez@example.com,0975544332,Cuenca,Ecuador,$480.00
+10/10/2025,C004,María López,maria.lopez@example.com,0998765432,Quito,Ecuador,$90.00
+12/10/2025,C005,Daniel Salazar,daniel.salazar@example.com,0963344556,Ambato,Ecuador,$210.00
+15/10/2025,C006,Sofía Herrera,sofia.herrera@example.com,0954433221,Manta,Ecuador,$130.00
+18/10/2025,C007,Andrés Vega,andres.vega@example.com,0983344556,Loja,Ecuador,$275.00
+21/10/2025,C008,Lucía Paredes,lucia.paredes@example.com,0992233445,Santo Domingo,Ecuador,$520.00
+25/10/2025,C009,Pedro Almeida,pedro.almeida@example.com,0971122334,Esmeraldas,Ecuador,$60.00
+29/10/2025,C010,Valentina Cruz,valentina.cruz@example.com,0966677889,Portoviejo,Ecuador,$310.00
