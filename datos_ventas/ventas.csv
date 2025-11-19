@@ -1,4 +1,4 @@
-Fecha,ID_Producto,Marca,Modelo,Talla,Color,Unidades_Vendidas,Precio_Unitario,Ingreso_Total
+Fecha,ID,Marca,Modelo,Talla,Color,Unidades,P.U,Val
 01-11-2025,P001,Nike,Air Max 90,42,Negro,2,129.99,259.98
 02-11-2025,P002,Adidas,Ultraboost 22,40,Blanco,1,180.00,180.00
 03-11-2025,P003,Puma,RS-X,43,Azul,3,110.00,330.00
